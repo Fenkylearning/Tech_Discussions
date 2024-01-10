@@ -6,3 +6,6 @@ This is the readme file
 ### Third Line Title
 * Item 1
 * Item 2
+
+##Image attachment
+![image](https://github.com/Fenkylearning/Tech_Discussions/assets/156162366/b16578a4-dcaf-41be-b767-b7b1f949e1c8)
